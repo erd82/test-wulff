@@ -8,11 +8,11 @@ Duration: 5 min
 
 
 
-[ACCORDION-BEGIN [Step 1: ](Implementation Portal for SAP S/4HANA Cloud)]
+### Step 1: Implementation Portal for SAP S/4HANA Cloud
 
 
 
-\(1\) Click  **Define Implementation Project Name and Set Milestones ** .
+\(1\) Click  **Define Implementation Project Name and Set Milestones** .
 
 ![Implementation Portal for SAP S/4HANA Cloud ](Markdown_files/img_0.png "Implementation Portal for SAP S/4HANA Cloud ")
 
